@@ -1,6 +1,7 @@
 <?php
+$data= array();
 $ages = array();//creating array
-for($x=1; $x<=200; $x++)
+for($x=1; $x<=6000; $x++)
 {
   $value = rand(1,120);	//generate randomly
   $ages[] = $value;//add to the array
