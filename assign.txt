@@ -1,0 +1,11 @@
+-Create an array called ages
+-Create a loop that will populate
+the ages array with 200 random ages 
+between 1 and 120.
+
+-Create another loop that will print out
+  all odd ages from ages array.
+-Write that data(odd ages) to a text file 
+	called ages.txt on separate lines
+
+35 mins    

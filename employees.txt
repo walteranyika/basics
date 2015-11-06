@@ -1,0 +1,43 @@
+goo.gl/Lg5JZ7
+create a db called thoughtworks
+create a table called employees
+add the following fields
+first_name
+last_name
+company_name
+address
+city
+county
+state
+zip
+phone1
+phone2
+email
+web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first_namelast_namecompany_nameaddresscitycountystatezipphone1phone2emailweb
+
+
